@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="blank_message_username">Please input username</string>
+    <string name="blank_message_email">Please input email</string>
+    <string name="blank_message_password">Please input password</string>
+    <string name="short_message_username">Your username is too short. Please try again.</string>
+    <string name="short_message_password">Your password is too short. Please try again.</string>
+    <string name="invalid_email">Your email is invalid. Please try again.</string>
+</resources>
